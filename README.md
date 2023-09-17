@@ -28,7 +28,7 @@ Use remixIDE
 * To again verify the current balance of a particular account, click on the "Balances" tab, paste the account address, and then select "Call" to obtain the current balance. It perform as (e.g ., 500-200=300) 
 * These are the various stages which included  in the Project.
 
-## Stand BY
+## STAND BY
 
 Here the  guidance during the project was incredibly helpful also having a very supportive community!!
 
